@@ -1,0 +1,86 @@
+[
+    {
+        "question": "How do I create an account?",
+        "answer": "To create an account, click on the 'Sign Up' button at the top right corner and fill in your details."
+    },
+    {
+        "question": "Is there a free trial available?",
+        "answer": "Yes, we offer a 7-day free trial for all new users to explore our premium courses."
+    },
+    {
+        "question": "How can I reset my password?",
+        "answer": "Click on 'Forgot Password' on the login page, and we will send a reset link to your registered email."
+    },
+    {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept all major credit cards, PayPal, and Apple Pay."
+    },
+    {
+        "question": "Can I download courses for offline viewing?",
+        "answer": "Yes, you can download course videos on our mobile app for offline access."
+    },
+    {
+        "question": "How do I get a certificate of completion?",
+        "answer": "Once you complete all the lessons and assignments in a course, your certificate will be automatically generated in your profile."
+    },
+    {
+        "question": "Are the courses self-paced?",
+        "answer": "Yes, all our courses are self-paced, so you can learn at your own convenience."
+    },
+    {
+        "question": "Can I get a refund if I'm not satisfied?",
+        "answer": "We offer a full refund within 30 days of purchase if you have not completed more than 20% of the course."
+    },
+    {
+        "question": "Do you offer student discounts?",
+        "answer": "Yes, students with a valid .edu email address can get a 50% discount on all subscriptions."
+    },
+    {
+        "question": "How can I contact technical support?",
+        "answer": "You can reach our support team via email at support@example.com or through the live chat on our website."
+    },
+    {
+        "question": "Is there a mobile app available?",
+        "answer": "Yes, our app is available for both iOS and Android devices."
+    },
+    {
+        "question": "Can I share my account with others?",
+        "answer": "No, account sharing is against our terms of service. Each subscription is for a single user."
+    },
+    {
+        "question": "How long do I have access to a course?",
+        "answer": "Once you purchase a course, you have lifetime access to its content."
+    },
+    {
+        "question": "What are the system requirements for the courses?",
+        "answer": "You only need a modern web browser and a stable internet connection to access our platform."
+    },
+    {
+        "question": "Are there any prerequisites for the beginner courses?",
+        "answer": "No, our beginner courses are designed for people with no prior knowledge in the subject."
+    },
+    {
+        "question": "Can I switch from a monthly to an annual plan?",
+        "answer": "Yes, you can upgrade to an annual plan anytime from your account settings."
+    },
+    {
+        "question": "How do I cancel my subscription?",
+        "answer": "You can cancel your subscription at any time under the 'Billing' section in your account settings."
+    },
+    {
+        "question": "Are captions available for the videos?",
+        "answer": "Yes, most of our courses include English captions, and we are working on adding more languages."
+    },
+    {
+        "question": "Can I interact with the instructors?",
+        "answer": "Yes, each course has a dedicated Q&A section where you can ask questions and interact with instructors."
+    },
+    {
+        "question": "Do you offer corporate training?",
+        "answer": "Yes, we have special plans for teams and organizations. Please contact our sales team for more information."
+    },
+    {
+        "question":"Very Bad Service",
+        "answer":"We apologize for any inconvenience. Please contact our support team so we can assist you further." 
+    }
+]
